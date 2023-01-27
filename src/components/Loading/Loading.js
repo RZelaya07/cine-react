@@ -1,0 +1,8 @@
+import React from 'react'
+
+export const Loading = () => {
+    return (
+        <div class="spinner-border text-primary" role="status">
+        </div>
+    )
+}

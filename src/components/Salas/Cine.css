@@ -1,0 +1,28 @@
+.butaca{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: lightskyblue;
+    cursor: pointer;
+}
+
+.butaca:hover{
+    background-color: rgb(245, 198, 110);
+}
+
+.horario{
+    gap: 5;
+}
+
+.botonHorario{
+    width: 115px;
+}
+
+.filahorario{
+    margin-top: 10px !important;
+}
+
+.botonComprarBoletos{
+    margin-inline: 100px;
+}
